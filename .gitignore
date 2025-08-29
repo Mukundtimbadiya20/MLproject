@@ -1,3 +1,31 @@
+# Python virtual environments
+venv/
+venvmlp/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Environments
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +233,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
